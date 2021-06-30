@@ -7,6 +7,15 @@ Software requirement?
 => A text editor, like Sublime or Atom.
 => A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
+How to run the script
+This script is written in Python 3 and uses pandas, numpy and time packages. You will need all of these packages and Python 3 to be able to launch the script. 
+Run bikeshare.py file from your terminal and you will see a prompt that will guide your experience reviewing the bikeshare data and reading relevant data analysis. 
+
+download the bikehsare folder onto your computer
+open terminal
+navigate to the location of your bikeshare folder
+type the following into terminal / python bikeshare.py /
+
 Bike Share Data
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
 
