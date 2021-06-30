@@ -1,7 +1,7 @@
 Date: 30/06/2021
 
-Overview
-This project will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. 
+Description
+Bikeshare project uses Python script and reads data from either Washington, New York city or Chicago csv files. Python script uses an interactive interface to allow user to choose the city and extract some other statistical information from the data.
 
 Software requirement?
 => Python 3, NumPy, and pandas installed using Anaconda
